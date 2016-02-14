@@ -1,14 +1,26 @@
-layout_spectrum: 0.5595745
-typography_spectrum: 0.6138774
+layout_spectrum: 0.9234043
+name: 'Southern Edge Glass & Rock Etching'
+collections:
+  - index:
+      navigable: true
+      path: /
+      number: 15
+      paginate: true
+    feed:
+      format: rss
+      path: /rss.xml
+      number: 10
+    permalink:
+      path: '/:title/'
 color:
-  lightness: 0.7851064
   brandStrength: 0.3651389
   saturation: 0.09432261
-  rhythmicContrast: 0.9804882
   brandColors:
     - '#160D0D'
     - '#FEFFFF'
     - '#5C4C41'
     - '#DFD0BE'
     - '#FFE16D'
-name: 'Southern Edge Glass & Rock Etching'
+  lightness: 0.7851064
+  rhythmicContrast: 0.9804882
+typography_spectrum: 0.6138774
