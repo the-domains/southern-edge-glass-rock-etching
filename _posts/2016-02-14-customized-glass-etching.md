@@ -1,14 +1,15 @@
 ---
 description: ''
 author: []
-datePublished: '2016-02-14T15:18:22.665Z'
+datePublished: '2016-02-15T20:52:38.221Z'
 publisher:
-  domain: ''
   name: ''
+  domain: ''
 title: Customized Glass Etching
-dateModified: '2016-02-14T15:16:03.505Z'
+dateModified: '2016-02-15T20:43:59.208Z'
 sourcePath: _posts/2016-02-14-customized-glass-etching.md
 published: true
+starred: false
 inFeed: true
 hasPage: true
 inNav: false
