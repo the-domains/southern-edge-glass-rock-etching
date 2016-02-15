@@ -2,30 +2,16 @@
     <channel>
         <title><![CDATA[Southern Edge Glass & Rock Etching]]></title>
         <description><![CDATA[Southern Edge Glass & Rock Etching]]></description>
-        <link>https://thegrid.ai/southern-edge-glass-rock-etching/</link>
+        <link>http://github.com/dylang/node-rss</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Mon, 15 Feb 2016 20:53:20 GMT</lastBuildDate>
-        <atom:link href="https://thegrid.ai/southern-edge-glass-rock-etching/rss.xml" rel="self" type="application/rss+xml"/>
-        <item>
-            <title><![CDATA[Customized Stone Etching]]></title>
-            <description><![CDATA[<article><h1>Customized Stone Etching</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/6222962deb212c928efefdd0b8e92da7327911bc.png"></article>]]></description>
-            <link>https://thegrid.ai/southern-edge-glass-rock-etching/customized-stone-etching/index.html</link>
-            <guid isPermaLink="false">a458ea75-b0af-4ec5-97bf-b3c2503592e7</guid>
-            <pubDate>Mon, 15 Feb 2016 20:52:39 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Mom's dumpling  bowl ]]></title>
-            <description><![CDATA[<article><h1>Mom's dumpling  bowl </h1><p>Mom's dumpling  bowl</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/4249ac25909e655fdecc797c31220ffa8bce7df4.png"></article>]]></description>
-            <link>https://thegrid.ai/southern-edge-glass-rock-etching/moms-dumpling-bowl/index.html</link>
-            <guid isPermaLink="false">c6090228-ca9e-4460-9185-09c6f69f6669</guid>
-            <pubDate>Mon, 15 Feb 2016 20:45:45 GMT</pubDate>
-        </item>
+        <lastBuildDate>Mon, 15 Feb 2016 21:09:36 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[Customized Glass Etching]]></title>
             <description><![CDATA[<article><h1>Customized Glass Etching</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/b2bf5f57c16cd5e3679d771927b75032f5b666f8.png"></article>]]></description>
-            <link>https://thegrid.ai/southern-edge-glass-rock-etching/customized-glass-etching/index.html</link>
+            <link>undefinedcustomized-glass-etching/index.html</link>
             <guid isPermaLink="false">e87bce9b-9889-4422-bf5e-f82b46854a8e</guid>
-            <pubDate>Mon, 15 Feb 2016 20:52:38 GMT</pubDate>
+            <pubDate>Mon, 15 Feb 2016 21:08:43 GMT</pubDate>
         </item>
     </channel>
 </rss>
