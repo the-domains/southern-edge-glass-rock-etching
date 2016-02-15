@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[Southern Edge Glass & Rock Etching]]></title>
+        <description><![CDATA[Southern Edge Glass & Rock Etching]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Mon, 15 Feb 2016 21:55:34 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Customized Etching]]></title>
+            <description><![CDATA[<article><h1>Customized Etching</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/583442fa07061e730e2294a1a0560bb4b058c721.png"></article>]]></description>
+            <link>undefinedcustomized-etching/index.html</link>
+            <guid isPermaLink="false">064e20a7-f969-435c-b540-6c9f1d2ef32a</guid>
+            <pubDate>Mon, 15 Feb 2016 21:55:22 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
