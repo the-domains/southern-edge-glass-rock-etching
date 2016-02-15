@@ -1,12 +1,12 @@
 ---
 description: ''
 author: []
-datePublished: '2016-02-15T20:52:39.355Z'
+datePublished: '2016-02-15T21:08:43.406Z'
 publisher:
   name: ''
   domain: ''
 title: Customized Stone Etching
-dateModified: '2016-02-15T20:35:05.424Z'
+dateModified: '2016-02-15T21:05:04.624Z'
 sourcePath: _posts/2016-02-14-customized-stone-etching.md
 published: true
 starred: true
