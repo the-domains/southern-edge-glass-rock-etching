@@ -2,14 +2,21 @@
     <channel>
         <title><![CDATA[Southern Edge Glass & Rock Etching]]></title>
         <description><![CDATA[Southern Edge Glass & Rock Etching]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/southern-edge-glass-rock-etching/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 18 Feb 2016 18:26:03 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 18 Feb 2016 18:27:21 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/southern-edge-glass-rock-etching/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Plates]]></title>
+            <description><![CDATA[<article><h1>Plates</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/70d8a350-660e-4863-aeab-a2a04e850c21.png"></article>]]></description>
+            <link>https://thegrid.ai/southern-edge-glass-rock-etching/plates/index.html</link>
+            <guid isPermaLink="false">76d2ab5b-3640-4a48-973f-dd6ae65f2a76</guid>
+            <pubDate>Thu, 18 Feb 2016 18:23:04 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Coffee Mugs]]></title>
-            <description><![CDATA[<article><h1>Coffee Mugs</h1><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/028d842c-ce61-472d-bf80-b7fc898635d6.png"></article>]]></description>
-            <link>undefinedcoffee-mugs/index.html</link>
+            <description><![CDATA[<article><h1>Coffee Mugs</h1><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/5ec0f9569aa060474adc16d7af9a5ba4b253181e.png"></article>]]></description>
+            <link>https://thegrid.ai/southern-edge-glass-rock-etching/coffee-mugs/index.html</link>
             <guid isPermaLink="false">863c8764-ffcd-4063-9b56-40303f8d14a9</guid>
             <pubDate>Thu, 18 Feb 2016 18:23:04 GMT</pubDate>
         </item>
